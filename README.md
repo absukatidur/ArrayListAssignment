@@ -1,6 +1,6 @@
 ## Program Features
 
-When the program starts, the user is asked to enter a first name and last name to create a new customer. That customer is automatically given an initial balance of `50000`.
+When the program starts, the user is asked to enter a first name and last name to create a new customer. That customer have to input their initial balance. 
 
 Once the account is created, the program displays the main menu with the following options:
 
